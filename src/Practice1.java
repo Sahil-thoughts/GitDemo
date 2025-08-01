@@ -14,6 +14,8 @@ public class Practice1 {
 				System.out.println(s.toLowerCase());
 				
 				System.out.println(s.substring(9));
+				System.out.println("postJIRa2");
+				System.out.println("postJIRa2");
 
 	}
 

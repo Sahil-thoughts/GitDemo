@@ -18,6 +18,8 @@ public class Practice1 {
 				System.out.println("postJIRa2");
 				System.out.println("postJIRa3");
 				System.out.println("postJIRa4");
+				System.out.println("postJIRa5");
+				
 
 	}
 
